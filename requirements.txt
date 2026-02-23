@@ -1,0 +1,6 @@
+playwright
+openai
+fastapi 
+uvicorn 
+python-dotenv
+pillow
